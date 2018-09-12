@@ -1,0 +1,31 @@
+
+1 – Crie uma função que receba um valor por parâmetro um nome (caractere) e verifique se esse valor se encontra em um vetor (também de caractere, declarado globalmente). Retorne verdadeiro caso o valor se encontre e falso, caso contrário. Crie um algoritmo principal para testar a função criada.
+
+2. Crie uma função que receba por parâmetro um número inteiro e verifique quantas vezes esse valor se encontra em um vetor (declarado globalmente). Retorne a quantidade de vezes que o valor se encontra no vetor. Crie um algoritmo principal para testar a função criada.
+
+3. Crie um procedimento que receba por parâmetro um número inteiro e remova todas as ocorrências desse valor de um vetor declarado globalmente.
+
+4. Escreva um algoritmo que apresente um menu com quatro opções:
+* 1 – Inserir
+* 2 – Remover
+* 3 – Imprimir
+* 4 – Substituir
+* 5 – Sair
+
+Considere um vetor de inteiro de 20 posições declarado globalmente. 
+Quando for escolhida a:
+Opção 1: um sub algoritmo Insere deve ser chamado para inserir o valor na próxima posição livre do vetor
+Opção 2: chamar o sub algoritmo Remover e eliminar o elemento na posição passada como parâmetro
+Opção 3: chamar o sub algoritmo Imprimir para escrever na tela os valores que se encontram no algoritmo
+Opção 4: chamar o sub algoritmo Substituir, que recebe por parâmetro um valor e uma posição. O sub algoritmo deve substituir o valor existente na posição informada pelo valor passado por parâmetro. Se ainda não houver elemento na posição informada, deve-se inserir o valor na próxima posição livre.
+Opção 5: O programa deverá ser encerrado.
+
+
+5. Desenvolva uma calculadora onde devem conter as seguintes operações: adição, subtração, divisão, multiplicação, exponenciação e raiz quadrada. Cada uma delas deve ser chamada da main e deve retornar o resultado diretamente da função correspondente.
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Algoritmos			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 8
+

@@ -1,0 +1,19 @@
+
+1 – Faça um programa em C que leia o sexo (M ou F), a idade e o salário de uma pessoa. Em seguida apresente na tela os dados digitados, com o sexo escrito por extenso (Masculino ou Feminino).
+
+2 – Faça um programa em C que leia nome, sexo e o salário de um conjunto de pessoas. Após a digitação de todas as pessoas, informar os dados daquela que ganha o maior salário.
+
+3 – Considerando o registro de um produto contendo as informações: descrição e valor. Fazer um programa que, dado o registro de 10 produtos, exiba-os na ordem inversa em que foram digitados.
+
+4 - Criar uma estrutura chamada DadosAluno, que  armazena a média e idade de um aluno. Na função main: criar uma variável que é um vetor da estrutura DadosAluno. O programa deve obter a média e a idade de 10 alunos. Depois, estes dados devem ser exibidos juntamente com a média geral da turma. 
+
+5 - Fazer um programa em C que cria uma estrutura livro, que contém os elementos título, ano de edição, número de páginas e preço. Criar uma variável desta estrutura que é um vetor de 5 elementos. Ler os valores para a estrutura e imprimir a média do número de páginas dos livros e o menor preço entre os produtos.
+
+6 - Foi realizada uma pesquisa entre 500 habitantes de certa região. De cada habitante foram coletados os dados: idade, sexo, salário e número de filhos. Crie a estrutura de dados adequada para armazenar estas informações, ao final calcule e exiba a média salarial dos habitantes.
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Algoritmos			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 9 - Registros
+

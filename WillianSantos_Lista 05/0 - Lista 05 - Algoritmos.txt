@@ -1,0 +1,61 @@
+
+
+1 – Calcular a soma dos 100 primeiros nº naturais.
+
+2- Escrever em ordem decrescente os números múltiplos de 5 entre 100 e -100.
+
+3 - Leia 5 valores para uma variável A . A seguir mostre quantos valores digitados foram pares, quantos valores digitados foram ímpares, quantos foram positivos e quantos foram negativos.
+
+4 - Faça um algoritmo que leia vários códigos do jogador (1 ou 2) que ganhou o ponto em uma partida de pingue-pongue, e responda quem ganha a partida. A partida chega ao final se um dos jogadores chega a 21 pontos e a diferença de pontos entre os jogadores é maior ou igual a dois. Caso contrário, ganha aquele que, com mais de 21 pontos, consiga colocar uma vantagem de dois pontos sobre o adversário.  
+
+5 - Faça um algoritmo que leia a altura de um grupo de 20 pessoas, calcule e exiba: 
+•	A maior altura do grupo; 
+•	A altura média; 
+•	O número de pessoas com altura superior a 2 metros.
+
+6 - Supondo que a população de um país A seja 90 milhões de habitantes, crescendo com uma taxa anual de 3.5 % e que a população de um país B seja 140 milhões de habitantes, crescendo a uma taxa anual de 1 %. Faça um algoritmo que calcule e mostre quantos anos serão necessários para que a população do país A ultrapasse a população do país B.
+
+7 - Faça um programa que calcule o salário líquido dos funcionários de uma empresa. O salário líquido é composto por descontos e adicionais, seguindo as seguintes regras:
+Descontos:
+• Salário bruto < 800,0 – não realizar nenhum desconto;
+• 800,0 <= Salário bruto <=1600,0 – descontar 8% de Imposto de Renda e 5 % de encargos.
+• >1600,0 – descontar 15% de Imposto de Renda e 7% de encargos.
+Adicionais:
+• Caso o funcionário tenha trabalhado mais de 160 horas no mês, divida o seu salário bruto por 160 (representa horas trabalhadas) e calcule 50% de adicional nas horas que excederam a 160.
+
+O usuário deverá digitar o salário bruto e o número de horas trabalhadas no mês de cada funcionário, e deverá receber como resultado o salário líquido. Para finalizar o programa o usuário deverá digitar 0 no salário bruto, ao finalizar o programa exibir o total geral dos salários líquidos.
+8) Uma empresa decidiu fazer um levantamento em relação aos candidatos que se apresentarem para preenchimento de vagas no seu quadro de funcionários. Supondo que você seja o programador dessa empresa, faça um Programa que leia para cada candidato a idade, o sexo (M=1 ou F=2) e a experiência no serviço (S=1 ou N=2). 
+Para encerrar a entrada de dados, digite zero para a idade. Calcule e escreva: 
+ 
+• número de candidatos do sexo feminino; 
+• número de candidatos do sexo masculino; 
+• a idade média dos homens que já têm experiência no serviço;
+• a porcentagem dos homens com mais de 45 anos entre o total dos homens; 
+• número de mulheres com idade inferior a 35 anos e com experiência no serviço; • a menor idade entre as mulheres que já têm experiência no serviço.
+
+9) Programa que receba duas notas de 6 alunos calcule e imprima: 
+ 
+• a média entre essas 2 notas de cada aluno;  
+• a mensagem de acordo com a tabela abaixo: 
+ 
+Média 		Mensagem 
+De 0 a 5.0 	reprovado 
+De 5.1 a 6.9 	recuperação 
+De 7.0 a 10  aprovado 
+ 
+• total de alunos aprovados e o total de alunos reprovados; 
+• a média geral do Programa, isto é, a média entre as médias dos alunos. 
+
+10) Em um campeonato de futebol, cada time tem uma lista oficial de 23 jogadores. Cada time prepara uma lista contendo o peso e a idade de cada um dos seus jogadores. Os 40 times que participam do torneio enviam essas listas para o CPD da confederação. Faça um Programa que apresente as seguintes informações: 
+ 
+• peso médio e a idade média de cada um dos times; 
+• peso médio e a idade média de todos os participantes
+
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Algoritmos			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 5
+

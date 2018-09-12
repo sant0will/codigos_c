@@ -1,0 +1,54 @@
+
+
+1 – Escreva um algoritmo que leia um vetor de 10 posições e imprima os elementos que são maiores que 20, caso não houver nenhum elemento mostrar uma mensagem de aviso ao usuário.
+
+2 - Escreva um algoritmo que leia um vetor de 20 posições e escreva a posição de cada elemento igual a 10 dentro dele.
+
+3 - Escreva um algoritmo que leia um vetor de tamanho n (informado pelo usuário) e escreva a soma de todos os elementos de índice par.
+
+4 - Ler do teclado 12 números inteiros e armazená-los em um vetor N. Em seguida, copiar os elementos pares divisíveis por 3 para o vetor X e os ímpares divisíveis por 5 para o vetor Y.
+
+5 - Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação no seu respectivo vetor. Imprima a idade e a altura na ordem inversa a ordem lida.
+
+6 - Faça um Programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores.
+
+7 - Elabore um algoritmo que permita ler 3 notas de alunos de uma turma e os respectivos nomes, identifique qual a nota máxima e a mínima e mostre quais os respectivos nomes dos alunos que as obtiveram.
+
+8 – Escreva um algoritmo para armazenar valores inteiros em uma matriz (5,5). A seguir, calcular a média dos valores pares contidos na matriz e escrever seu conteúdo.
+
+9 - Escrever um algoritmo para ler uma matriz (7,4) contendo valores inteiros (supor que os valores são distintos). Após, encontrar o menor valor contido na matriz e sua posição.
+
+10 - Escreva um algoritmo que lê uma matriz M(5,5) e calcula as somas:
+a) da linha 4 de M.
+b) da coluna 2 de M.
+c) da diagonal principal.
+d) da diagonal secundária.
+e) de todos os elementos da matriz.
+f) Escreva estas somas e a matriz.
+
+0,0 0,1 0,2 0,3 0,4
+1,0 1,1 1,2 1,3 1,4
+
+11 - Ler uma matriz 5X5 e gerar outra em que cada elemento é o cubo do elemento respectivo na matriz original.
+
+12 - Faça um algoritmo para ler uma matriz de 3X4 de números reais e depois exibir o elemento do canto superior e do canto inferior esquerdo.
+
+13 - Crie uma matriz 7X8 onde cada elemento é a soma dos índices de sua posição dentro da matriz;
+
+14 - Leia uma matriz 10 x 10 que se refere respostas de 10 questões de múltipla escolha, referentes a 10 alunos. Leia também um vetor de 10 posições contendo o gabarito de respostas que podem ser a, b, c ou d. Seu programa deverá comparar as respostas de cada candidato com o gabarito e emitir um vetor Resultado, contendo a pontuação correspondente.
+
+15 - O tempo que um determinado avião gasta para percorrer o trecho entre duas  localidades distintas está disponível através da seguinte tabela:
+
+
+
+Faça um algoritmo que leia a tabela acima e informe ao usuário o tempo necessário para percorrer duas cidades por ele fornecidas, até o momento que ele fornecer duas cidades iguais (origem e destino).
+
+Desafios:
+• Faça um algoritmo que mostre a tabela sem repetições (apenas o triângulo superior ou o inferior).
+
+• Faça um algoritmo que permita ao usuário informar várias cidades, até inserir uma cidade X, e que mostre o tempo total para cumprir todo o percurso especificado entre as cidades fornecidas.
+
+
+
+
+

@@ -1,0 +1,43 @@
+
+
+1 – Ler um valor e escrever se é positivo, negativo ou zero.
+
+2 - Ler as notas da 1a e 2a avaliação de um aluno. Calcular a média aritmética simples e escrever uma mensagem que diga se o aluno foi ou não aprovado (considerar que se a nota for igual ou maior que 7 o aluno é aprovado). Escrever também a média calculada.
+
+3 - Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
+
+4 - Ler 2 valores e escrever o maior deles.
+
+5 - Ler 2 valores e escrevê-los em ordem crescente.
+
+6 - Ler 3 valores e escrever o maior deles.
+
+7 - Ler 3 valores e escrever a soma dos 2 maiores.
+
+8 - Ler 3 valores e escrevê-los em ordem crescente.
+
+9 - Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar. Ex: se (x%2=0) “x é par”, se (x%2=1) “x é impar”.
+
+10.  Leia quantos gols o TIME A marcou em uma partida e leia quantos gols o TIME B marcou. Escrever o nome do vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.
+
+11. Desenvolva um algoritmo que calcule o imposto de renda de um contribuinte considerando que os dados do contribuinte são: número do CPF, número de dependentes e renda mensal. Para o contribuinte será feito um desconto de 5% de salário mínimo por dependente (máximo de 3 dependentes 15%).
+Os valores da alíquota para cálculo do imposto são:
+
+Renda líquidaAlíquotaaté 2 salários mínimosIsento2..3 salários mínimos5%3..5 salários mínimos10%5..7 salários mínimos15%acima de 7 salários mínimos20%
+
+Deve ser solicitado o valor atual do salário mínimo ao iniciar o algoritmo (R$880,00)
+
+
+12. A empresa “MultiSoft” decidiu conceder um aumento de salário para os seus funcionários de acordo com a tabela abaixo:
+
+Salário Atual R$Índice de aumento0
+300,01 a 600,0011%600,01 a 900,0012%900,01 a 1500,006%1500,01 a 2000,003%Acima de 2000Sem aumento
+Escrever um algoritmo que lê, para cada funcionário, o seu nome e o seu salário atual, escrevendo depois o nome do funcionário, seu salário atual, o percentual de seu aumento e o valor do salário corrigido.
+
+13. Dados os nomes de 5 municípios de uma região e suas temperaturas médias, emitir o seguinte relatório: 
+
+   a) temperatura média da região; 
+   b) número de municípios com temperatura média inferior a 10ºC; 
+   c) nome dos municípios que apresentam temperatura média superior a 30ºC.
+
+

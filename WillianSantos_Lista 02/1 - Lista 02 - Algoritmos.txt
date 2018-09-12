@@ -1,0 +1,46 @@
+
+
+1 – Faça um algoritmo para calcular a área superficial de um cilindro (2*pi*r*h)
+
+2 – Faça um algoritmo para calcular a área de um cubo retangular ((h*l)+(h*b)+(l*b))*2
+
+3 – Faça um algoritmo para calcular a área superficial de uma esfera 
+(4*pi*r^2)
+
+4 – Faça um algoritmo para calcular a área de um cone(pi*r*h)
+
+5 – Faça um algoritmo para calcular o volume de um cilindro(pi*r^2*h)
+
+6 – Faça um algoritmo para calcular o volume de uma esfera(4/3*pi*r^3)
+
+7 – Faça um algoritmo para calcular o volume de um cone (pi*r^2*h) / 3)
+
+8 – Faça um algoritmo para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor correspondente em graus Celsius.
+
+9 - Faça um algoritmo para calcular e exibir um salário reajustado em 23,75%. O salário atual deve ser fornecido pelo usuário.
+
+10 - Faça um algoritmo para calcular e exibir do salário líquido de um professor, onde o número de horas, o valor da hora e o percentual do INSS devem ser fornecidos pelo usuário:
+salario_bruto <- num_hora_aula * valor_hora_aula 
+salario_liquido <- salario_bruto – (salario_bruto * percentual_INSS). 
+
+11 - Faça um algoritmo para calcular e exibir o valor de uma prestação em atraso. prestacao_atrasada <- prestacao + (prestacao*(taxa/100)*num_dias_atraso), taxa é o percentual de juros por dia, num_dias_atraso é o número de dias em atraso e prestação é o valor da prestação normal. O valor da prestação, a taxa e o número de dias em atraso devem ser fornecidos pelo usuário.
+
+12 - Faça um algoritmo que calcule a média de quatro números inteiros. Os números devem ser dados pelo usuário
+
+13 - Faça um algoritmo que receba do usuário uma quantidade de chuva dada em polegadas e exiba o equivalente em milímetros (25,4 m = 1 polegada).
+
+14 - Faça um algoritmo que lê o nome de um vendedor, lê o salário fixo do vendedor, lê o total (em reais) de vendas por ele efetuadas e lê o percentual que ganha sobre o total de vendas. O algoritmo deve calcular o salário total do vendedor e exibir, ao final, a seguinte frase:
+
+O vendedor <nome do vendedor> recebeu <salario total> reais.
+	
+15 - Faça um algoritmo que leia o nome de um piloto, leia a distância percorrida em km e o tempo que o piloto levou para percorrê-la (em horas). O algoritmo deve calcular a velocidade média (velocidade = distancia / tempo) - em km/h, e exibir a seguinte frase:
+
+A velocidade média do <nome do piloto> foi <velocidade media calculada> km/h.
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Algoritmos			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 2
+

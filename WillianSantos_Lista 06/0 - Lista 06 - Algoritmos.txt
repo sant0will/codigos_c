@@ -1,0 +1,48 @@
+
+1 – Escreva um Programa que receba a idade de 15 pessoas, calcule e imprima: 
+- a quantidade de pessoas em cada faixa etária; a porcentagem de cada faixa etária em relação ao total de pessoas. 
+
+ As faixas etárias são:
+1 a 15 anos 
+16 a 30 anos 
+31 a 45 anos 
+46 a 60 anos 
+> = 61 anos
+
+2) Faça uma Programa que receba a idade e o peso de 15 pessoas. Calcule e imprima as médias dos pesos das pessoas da mesma faixa etária. As faixas etárias são: de 1 a 10 anos, de 11 a 20 anos, de 21 a 30 anos e maiores de 30 anos.
+
+
+3) Escreva uma Programa que receba um conjunto de valores inteiros e positivos, calcule e imprima o maior e o menor valor do conjunto. 
+ 
+Para encerrar a entrada de dados, deve ser digitado o valor zero. Para valores negativos, deve ser enviada uma mensagem. Esses valores (zero e negativos) não entrarão nos cálculos.
+
+
+4) Faça uma Programa que receba, como entrada, uma lista de números positivos ou negativos finalizada com o número zero e forneça, como saída, a soma dos números positivos, a soma dos números negativos e a soma das duas somas parciais.  
+
+
+5) Faça uma Programa que receba a idade e a altura de várias pessoas. Calcule e imprima a média das alturas das pessoas com mais de 50 anos. Para encerrar a entrada de dados, digite idade <= zero.
+
+
+6) Foi feita uma pesquisa de audiência de canal de TV em várias casas de uma certa cidade, em um determinado dia. Para cada casa visitada foi fornecido o número do canal (4, 5, 7, 12) e o número de pessoas que estavam assistindo a ele naquela casa. Se a televisão estivesse desligada, nada seria anotado, ou seja, esta casa não entraria na pesquisa. Faça um Programa que: 
+ 
+leia um número indeterminado de dados, isto é, o número do canal e o número de pessoas que estavam assistindo; 
+ 
+calcule e imprima a porcentagem de audiência em cada canal. Para encerrar a entrada de dados, digite o número do canal zero.
+
+7) Número primo é aquele que só é divisível por ele mesmo e por 1. Faça um
+programa que determine e escreva os números primos compreendidos
+entre100 e 1000.
+
+8) Faça um programa que apresente quatro opções: (1) consulta saldo, (2)
+saque, (3) depósito e (4) sair. O saldo deve iniciar em R$ 0,00. A cada
+saque ou depósito o valor do saldo deve ser atualizado e apresentado na
+tela.
+
+
+Instituto Federal Catarinense	
+Bacharelado em Ciência da Computação
+Algoritmos			
+Professor: Diego Ricardo Krohl
+					
+Exercícios – Lista 6
+
